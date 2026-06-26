@@ -29,3 +29,7 @@ It then calculates the estimated material cost.
 ```text
 material cost = grams used / 1000 * filament price per kg
 ```
+
+## Contributing
+
+Contributions are welcome! Check the Issues tab for beginner-friendly tasks.
